@@ -1,0 +1,6 @@
+framework module Dodecaphony {
+  umbrella header "Dodecaphony-umbrella.h"
+
+  export *
+  module * { export * }
+}
